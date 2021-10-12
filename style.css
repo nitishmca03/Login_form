@@ -78,9 +78,11 @@ form .txt_field{
     margin: -5px 0 20px 5px;
     color: #a6a6a6;
     cursor: pointer;
+    
 }
 .pass:hover{
-    text-decoration: underline;
+    color: rgb(100, 100, 102);
+    text-decoration: none;
 }
 input[type="submit"]{
     width: 100%;
@@ -108,5 +110,5 @@ input[type="submit"]:hover{
     text-decoration: none;
 }
 .signup_link a:hover{
-    text-decoration: underline;
+    color: #074269;
 }
